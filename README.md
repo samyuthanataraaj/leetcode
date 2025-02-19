@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/samyuthanataraaj/leetcode/tree/master/0006-zigzag-conversion) |
+| [0696-count-binary-substrings](https://github.com/samyuthanataraaj/leetcode/tree/master/0696-count-binary-substrings) |
 | [1666-make-the-string-great](https://github.com/samyuthanataraaj/leetcode/tree/master/1666-make-the-string-great) |
 ## Dynamic Programming
 |  |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1666-make-the-string-great](https://github.com/samyuthanataraaj/leetcode/tree/master/1666-make-the-string-great) |
+## Two Pointers
+|  |
+| ------- |
+| [0696-count-binary-substrings](https://github.com/samyuthanataraaj/leetcode/tree/master/0696-count-binary-substrings) |
 <!---LeetCode Topics End-->
