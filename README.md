@@ -113,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/samyuthanataraaj/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/samyuthanataraaj/leetcode/tree/master/2551-apply-operations-to-an-array) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/samyuthanataraaj/leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
