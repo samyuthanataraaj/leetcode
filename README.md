@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/samyuthanataraaj/leetcode/tree/master/0279-perfect-squares) |
 | [1236-n-th-tribonacci-number](https://github.com/samyuthanataraaj/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1448-maximum-69-number](https://github.com/samyuthanataraaj/leetcode/tree/master/1448-maximum-69-number) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/samyuthanataraaj/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Recursion
 |  |
 | ------- |
