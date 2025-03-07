@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/samyuthanataraaj/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1448-maximum-69-number](https://github.com/samyuthanataraaj/leetcode/tree/master/1448-maximum-69-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/samyuthanataraaj/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2610-closest-prime-numbers-in-range](https://github.com/samyuthanataraaj/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 ## Recursion
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/samyuthanataraaj/leetcode/tree/master/0204-count-primes) |
+| [2610-closest-prime-numbers-in-range](https://github.com/samyuthanataraaj/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 ## Breadth-First Search
 |  |
 | ------- |
