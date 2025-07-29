@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/samyuthanataraaj/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/samyuthanataraaj/leetcode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/samyuthanataraaj/leetcode/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/samyuthanataraaj/leetcode/tree/master/0279-perfect-squares) |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/samyuthanataraaj/leetcode/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/samyuthanataraaj/leetcode/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/samyuthanataraaj/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/samyuthanataraaj/leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
