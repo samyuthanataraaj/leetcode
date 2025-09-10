@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/samyuthanataraaj/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/samyuthanataraaj/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/samyuthanataraaj/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2639-separate-the-digits-in-an-array](https://github.com/samyuthanataraaj/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/samyuthanataraaj/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/samyuthanataraaj/leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 ## Enumeration
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/samyuthanataraaj/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/samyuthanataraaj/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2551-apply-operations-to-an-array](https://github.com/samyuthanataraaj/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2639-separate-the-digits-in-an-array](https://github.com/samyuthanataraaj/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 ## Database
 |  |
 | ------- |
