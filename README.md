@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/samyuthanataraaj/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0204-count-primes](https://github.com/samyuthanataraaj/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/samyuthanataraaj/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/samyuthanataraaj/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/samyuthanataraaj/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0498-diagonal-traverse](https://github.com/samyuthanataraaj/leetcode/tree/master/0498-diagonal-traverse) |
 | [1217-relative-sort-array](https://github.com/samyuthanataraaj/leetcode/tree/master/1217-relative-sort-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/samyuthanataraaj/leetcode/tree/master/0125-valid-palindrome) |
+| [0287-find-the-duplicate-number](https://github.com/samyuthanataraaj/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/samyuthanataraaj/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0696-count-binary-substrings](https://github.com/samyuthanataraaj/leetcode/tree/master/0696-count-binary-substrings) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/samyuthanataraaj/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/samyuthanataraaj/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/samyuthanataraaj/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/samyuthanataraaj/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/samyuthanataraaj/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Counting Sort
 |  |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/samyuthanataraaj/leetcode/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/samyuthanataraaj/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/samyuthanataraaj/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/samyuthanataraaj/leetcode/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
