@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/samyuthanataraaj/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1666-make-the-string-great](https://github.com/samyuthanataraaj/leetcode/tree/master/1666-make-the-string-great) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/samyuthanataraaj/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2107-find-unique-binary-string](https://github.com/samyuthanataraaj/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/samyuthanataraaj/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Dynamic Programming
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/samyuthanataraaj/leetcode/tree/master/0498-diagonal-traverse) |
 | [1217-relative-sort-array](https://github.com/samyuthanataraaj/leetcode/tree/master/1217-relative-sort-array) |
 | [1656-count-good-triplets](https://github.com/samyuthanataraaj/leetcode/tree/master/1656-count-good-triplets) |
+| [2107-find-unique-binary-string](https://github.com/samyuthanataraaj/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/samyuthanataraaj/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/samyuthanataraaj/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/samyuthanataraaj/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/samyuthanataraaj/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1217-relative-sort-array](https://github.com/samyuthanataraaj/leetcode/tree/master/1217-relative-sort-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/samyuthanataraaj/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2107-find-unique-binary-string](https://github.com/samyuthanataraaj/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/samyuthanataraaj/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/samyuthanataraaj/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/samyuthanataraaj/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -176,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/samyuthanataraaj/leetcode/tree/master/0498-diagonal-traverse) |
+## Backtracking
+|  |
+| ------- |
+| [2107-find-unique-binary-string](https://github.com/samyuthanataraaj/leetcode/tree/master/2107-find-unique-binary-string) |
 <!---LeetCode Topics End-->
