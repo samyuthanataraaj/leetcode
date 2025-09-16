@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/samyuthanataraaj/leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/samyuthanataraaj/leetcode/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/samyuthanataraaj/leetcode/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/samyuthanataraaj/leetcode/tree/master/0415-add-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/samyuthanataraaj/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1448-maximum-69-number](https://github.com/samyuthanataraaj/leetcode/tree/master/1448-maximum-69-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/samyuthanataraaj/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/samyuthanataraaj/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/samyuthanataraaj/leetcode/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/samyuthanataraaj/leetcode/tree/master/0290-word-pattern) |
+| [0415-add-strings](https://github.com/samyuthanataraaj/leetcode/tree/master/0415-add-strings) |
 | [0696-count-binary-substrings](https://github.com/samyuthanataraaj/leetcode/tree/master/0696-count-binary-substrings) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/samyuthanataraaj/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/samyuthanataraaj/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/samyuthanataraaj/leetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/samyuthanataraaj/leetcode/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/samyuthanataraaj/leetcode/tree/master/0498-diagonal-traverse) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/samyuthanataraaj/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/samyuthanataraaj/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
