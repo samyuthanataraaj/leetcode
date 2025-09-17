@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/samyuthanataraaj/leetcode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/samyuthanataraaj/leetcode/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/samyuthanataraaj/leetcode/tree/master/0492-construct-the-rectangle) |
+| [0504-base-7](https://github.com/samyuthanataraaj/leetcode/tree/master/0504-base-7) |
 | [1236-n-th-tribonacci-number](https://github.com/samyuthanataraaj/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1448-maximum-69-number](https://github.com/samyuthanataraaj/leetcode/tree/master/1448-maximum-69-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/samyuthanataraaj/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/samyuthanataraaj/leetcode/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/samyuthanataraaj/leetcode/tree/master/0290-word-pattern) |
 | [0415-add-strings](https://github.com/samyuthanataraaj/leetcode/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/samyuthanataraaj/leetcode/tree/master/0504-base-7) |
 | [0696-count-binary-substrings](https://github.com/samyuthanataraaj/leetcode/tree/master/0696-count-binary-substrings) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/samyuthanataraaj/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/samyuthanataraaj/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
