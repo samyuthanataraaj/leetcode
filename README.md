@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2298-count-integers-with-even-digit-sum](https://github.com/samyuthanataraaj/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2610-closest-prime-numbers-in-range](https://github.com/samyuthanataraaj/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2630-alternating-digit-sum](https://github.com/samyuthanataraaj/leetcode/tree/master/2630-alternating-digit-sum) |
+| [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/samyuthanataraaj/leetcode/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/samyuthanataraaj/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Recursion
 |  |
