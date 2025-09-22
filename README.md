@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/samyuthanataraaj/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/samyuthanataraaj/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/samyuthanataraaj/leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/samyuthanataraaj/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/samyuthanataraaj/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Enumeration
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/samyuthanataraaj/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/samyuthanataraaj/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/samyuthanataraaj/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/samyuthanataraaj/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/samyuthanataraaj/leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Sorting
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/samyuthanataraaj/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/samyuthanataraaj/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/samyuthanataraaj/leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Stack
 |  |
