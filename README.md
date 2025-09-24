@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/samyuthanataraaj/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1448-maximum-69-number](https://github.com/samyuthanataraaj/leetcode/tree/master/1448-maximum-69-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/samyuthanataraaj/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/samyuthanataraaj/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/samyuthanataraaj/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/samyuthanataraaj/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2610-closest-prime-numbers-in-range](https://github.com/samyuthanataraaj/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/samyuthanataraaj/leetcode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/samyuthanataraaj/leetcode/tree/master/1217-relative-sort-array) |
 | [1656-count-good-triplets](https://github.com/samyuthanataraaj/leetcode/tree/master/1656-count-good-triplets) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/samyuthanataraaj/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2107-find-unique-binary-string](https://github.com/samyuthanataraaj/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/samyuthanataraaj/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/samyuthanataraaj/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
