@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/samyuthanataraaj/leetcode/tree/master/0504-base-7) |
 | [0796-reaching-points](https://github.com/samyuthanataraaj/leetcode/tree/master/0796-reaching-points) |
 | [1236-n-th-tribonacci-number](https://github.com/samyuthanataraaj/leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1260-day-of-the-year](https://github.com/samyuthanataraaj/leetcode/tree/master/1260-day-of-the-year) |
 | [1448-maximum-69-number](https://github.com/samyuthanataraaj/leetcode/tree/master/1448-maximum-69-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/samyuthanataraaj/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/samyuthanataraaj/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/samyuthanataraaj/leetcode/tree/master/0504-base-7) |
 | [0696-count-binary-substrings](https://github.com/samyuthanataraaj/leetcode/tree/master/0696-count-binary-substrings) |
 | [1044-find-common-characters](https://github.com/samyuthanataraaj/leetcode/tree/master/1044-find-common-characters) |
+| [1260-day-of-the-year](https://github.com/samyuthanataraaj/leetcode/tree/master/1260-day-of-the-year) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/samyuthanataraaj/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/samyuthanataraaj/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1666-make-the-string-great](https://github.com/samyuthanataraaj/leetcode/tree/master/1666-make-the-string-great) |
