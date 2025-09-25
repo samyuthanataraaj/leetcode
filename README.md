@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/samyuthanataraaj/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2288-count-operations-to-obtain-zero](https://github.com/samyuthanataraaj/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/samyuthanataraaj/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2383-add-two-integers](https://github.com/samyuthanataraaj/leetcode/tree/master/2383-add-two-integers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/samyuthanataraaj/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2630-alternating-digit-sum](https://github.com/samyuthanataraaj/leetcode/tree/master/2630-alternating-digit-sum) |
 | [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/samyuthanataraaj/leetcode/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
