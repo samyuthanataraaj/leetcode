@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/samyuthanataraaj/leetcode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/samyuthanataraaj/leetcode/tree/master/0504-base-7) |
 | [0796-reaching-points](https://github.com/samyuthanataraaj/leetcode/tree/master/0796-reaching-points) |
+| [0830-largest-triangle-area](https://github.com/samyuthanataraaj/leetcode/tree/master/0830-largest-triangle-area) |
 | [1236-n-th-tribonacci-number](https://github.com/samyuthanataraaj/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/samyuthanataraaj/leetcode/tree/master/1260-day-of-the-year) |
 | [1448-maximum-69-number](https://github.com/samyuthanataraaj/leetcode/tree/master/1448-maximum-69-number) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/samyuthanataraaj/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/samyuthanataraaj/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0498-diagonal-traverse](https://github.com/samyuthanataraaj/leetcode/tree/master/0498-diagonal-traverse) |
+| [0830-largest-triangle-area](https://github.com/samyuthanataraaj/leetcode/tree/master/0830-largest-triangle-area) |
 | [1044-find-common-characters](https://github.com/samyuthanataraaj/leetcode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/samyuthanataraaj/leetcode/tree/master/1217-relative-sort-array) |
 | [1656-count-good-triplets](https://github.com/samyuthanataraaj/leetcode/tree/master/1656-count-good-triplets) |
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2107-find-unique-binary-string](https://github.com/samyuthanataraaj/leetcode/tree/master/2107-find-unique-binary-string) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/samyuthanataraaj/leetcode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
