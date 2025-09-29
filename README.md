@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/samyuthanataraaj/leetcode/tree/master/0504-base-7) |
 | [0796-reaching-points](https://github.com/samyuthanataraaj/leetcode/tree/master/0796-reaching-points) |
 | [0830-largest-triangle-area](https://github.com/samyuthanataraaj/leetcode/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/samyuthanataraaj/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/samyuthanataraaj/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/samyuthanataraaj/leetcode/tree/master/1260-day-of-the-year) |
 | [1448-maximum-69-number](https://github.com/samyuthanataraaj/leetcode/tree/master/1448-maximum-69-number) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/samyuthanataraaj/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0498-diagonal-traverse](https://github.com/samyuthanataraaj/leetcode/tree/master/0498-diagonal-traverse) |
 | [0830-largest-triangle-area](https://github.com/samyuthanataraaj/leetcode/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/samyuthanataraaj/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1044-find-common-characters](https://github.com/samyuthanataraaj/leetcode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/samyuthanataraaj/leetcode/tree/master/1217-relative-sort-array) |
 | [1656-count-good-triplets](https://github.com/samyuthanataraaj/leetcode/tree/master/1656-count-good-triplets) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/samyuthanataraaj/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/samyuthanataraaj/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/samyuthanataraaj/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1018-largest-perimeter-triangle](https://github.com/samyuthanataraaj/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1217-relative-sort-array](https://github.com/samyuthanataraaj/leetcode/tree/master/1217-relative-sort-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/samyuthanataraaj/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/samyuthanataraaj/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1018-largest-perimeter-triangle](https://github.com/samyuthanataraaj/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/samyuthanataraaj/leetcode/tree/master/1448-maximum-69-number) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/samyuthanataraaj/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Number Theory
