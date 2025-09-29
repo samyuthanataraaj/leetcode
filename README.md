@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/samyuthanataraaj/leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/samyuthanataraaj/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/samyuthanataraaj/leetcode/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/samyuthanataraaj/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0504-base-7](https://github.com/samyuthanataraaj/leetcode/tree/master/0504-base-7) |
 | [0696-count-binary-substrings](https://github.com/samyuthanataraaj/leetcode/tree/master/0696-count-binary-substrings) |
 | [1044-find-common-characters](https://github.com/samyuthanataraaj/leetcode/tree/master/1044-find-common-characters) |
