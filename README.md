@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/samyuthanataraaj/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/samyuthanataraaj/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/samyuthanataraaj/leetcode/tree/master/1260-day-of-the-year) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/samyuthanataraaj/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/samyuthanataraaj/leetcode/tree/master/1448-maximum-69-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/samyuthanataraaj/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/samyuthanataraaj/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/samyuthanataraaj/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1044-find-common-characters](https://github.com/samyuthanataraaj/leetcode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/samyuthanataraaj/leetcode/tree/master/1217-relative-sort-array) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/samyuthanataraaj/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1656-count-good-triplets](https://github.com/samyuthanataraaj/leetcode/tree/master/1656-count-good-triplets) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/samyuthanataraaj/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2107-find-unique-binary-string](https://github.com/samyuthanataraaj/leetcode/tree/master/2107-find-unique-binary-string) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/samyuthanataraaj/leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/samyuthanataraaj/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/samyuthanataraaj/leetcode/tree/master/1448-maximum-69-number) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/samyuthanataraaj/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Number Theory
