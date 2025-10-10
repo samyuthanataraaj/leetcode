@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/samyuthanataraaj/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/samyuthanataraaj/leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/samyuthanataraaj/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/samyuthanataraaj/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/samyuthanataraaj/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Enumeration
 |  |
@@ -285,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/samyuthanataraaj/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/samyuthanataraaj/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 <!---LeetCode Topics End-->
