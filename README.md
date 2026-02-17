@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/samyuthanataraaj/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/samyuthanataraaj/leetcode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/samyuthanataraaj/leetcode/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/samyuthanataraaj/leetcode/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/samyuthanataraaj/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Divide and Conquer
 |  |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/samyuthanataraaj/leetcode/tree/master/0401-binary-watch) |
 | [2107-find-unique-binary-string](https://github.com/samyuthanataraaj/leetcode/tree/master/2107-find-unique-binary-string) |
 ## Geometry
 |  |
