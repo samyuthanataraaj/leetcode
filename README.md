@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/samyuthanataraaj/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/samyuthanataraaj/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1965-sum-of-digits-in-base-k](https://github.com/samyuthanataraaj/leetcode/tree/master/1965-sum-of-digits-in-base-k) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/samyuthanataraaj/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/samyuthanataraaj/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2288-count-operations-to-obtain-zero](https://github.com/samyuthanataraaj/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/samyuthanataraaj/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/samyuthanataraaj/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/samyuthanataraaj/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/samyuthanataraaj/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/samyuthanataraaj/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/samyuthanataraaj/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/samyuthanataraaj/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/samyuthanataraaj/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/samyuthanataraaj/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/samyuthanataraaj/leetcode/tree/master/0258-add-digits) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/samyuthanataraaj/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/samyuthanataraaj/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 ## Breadth-First Search
 |  |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/samyuthanataraaj/leetcode/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/samyuthanataraaj/leetcode/tree/master/0498-diagonal-traverse) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/samyuthanataraaj/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/samyuthanataraaj/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/samyuthanataraaj/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2288-count-operations-to-obtain-zero](https://github.com/samyuthanataraaj/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/samyuthanataraaj/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -297,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/samyuthanataraaj/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/samyuthanataraaj/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Prefix Sum
 |  |
