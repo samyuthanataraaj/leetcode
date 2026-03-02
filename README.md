@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/samyuthanataraaj/leetcode/tree/master/1217-relative-sort-array) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/samyuthanataraaj/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/samyuthanataraaj/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/samyuthanataraaj/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1656-count-good-triplets](https://github.com/samyuthanataraaj/leetcode/tree/master/1656-count-good-triplets) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/samyuthanataraaj/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2107-find-unique-binary-string](https://github.com/samyuthanataraaj/leetcode/tree/master/2107-find-unique-binary-string) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/samyuthanataraaj/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/samyuthanataraaj/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/samyuthanataraaj/leetcode/tree/master/1448-maximum-69-number) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/samyuthanataraaj/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/samyuthanataraaj/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Number Theory
 |  |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/samyuthanataraaj/leetcode/tree/master/0498-diagonal-traverse) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/samyuthanataraaj/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Backtracking
 |  |
 | ------- |
