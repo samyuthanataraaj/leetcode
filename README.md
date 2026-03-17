@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/samyuthanataraaj/leetcode/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/samyuthanataraaj/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/samyuthanataraaj/leetcode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/samyuthanataraaj/leetcode/tree/master/0165-compare-version-numbers) |
 | [0287-find-the-duplicate-number](https://github.com/samyuthanataraaj/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -319,4 +320,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/samyuthanataraaj/leetcode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/samyuthanataraaj/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
