@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/samyuthanataraaj/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/samyuthanataraaj/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/samyuthanataraaj/leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/samyuthanataraaj/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/samyuthanataraaj/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/samyuthanataraaj/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/samyuthanataraaj/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/samyuthanataraaj/leetcode/tree/master/0498-diagonal-traverse) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/samyuthanataraaj/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/samyuthanataraaj/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/samyuthanataraaj/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Backtracking
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/samyuthanataraaj/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/samyuthanataraaj/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/samyuthanataraaj/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Linked List
 |  |
