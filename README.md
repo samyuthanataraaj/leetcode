@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/samyuthanataraaj/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/samyuthanataraaj/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/samyuthanataraaj/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/samyuthanataraaj/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/samyuthanataraaj/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Enumeration
 |  |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/samyuthanataraaj/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/samyuthanataraaj/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/samyuthanataraaj/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/samyuthanataraaj/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Database
 |  |
 | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/samyuthanataraaj/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/samyuthanataraaj/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Matrix
 |  |
 | ------- |
