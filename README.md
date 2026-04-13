@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/samyuthanataraaj/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/samyuthanataraaj/leetcode/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/samyuthanataraaj/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/samyuthanataraaj/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/samyuthanataraaj/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/samyuthanataraaj/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/samyuthanataraaj/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/samyuthanataraaj/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/samyuthanataraaj/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/samyuthanataraaj/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/samyuthanataraaj/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/samyuthanataraaj/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/samyuthanataraaj/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
