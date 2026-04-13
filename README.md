@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-check-if-it-is-a-straight-line](https://github.com/samyuthanataraaj/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/samyuthanataraaj/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1656-count-good-triplets](https://github.com/samyuthanataraaj/leetcode/tree/master/1656-count-good-triplets) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/samyuthanataraaj/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/samyuthanataraaj/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2107-find-unique-binary-string](https://github.com/samyuthanataraaj/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/samyuthanataraaj/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
