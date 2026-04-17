@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/samyuthanataraaj/leetcode/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/samyuthanataraaj/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0693-binary-number-with-alternating-bits](https://github.com/samyuthanataraaj/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [1009-complement-of-base-10-integer](https://github.com/samyuthanataraaj/leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/samyuthanataraaj/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Divide and Conquer
 |  |
