@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/samyuthanataraaj/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/samyuthanataraaj/leetcode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/samyuthanataraaj/leetcode/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/samyuthanataraaj/leetcode/tree/master/0041-first-missing-positive) |
 | [0119-pascals-triangle-ii](https://github.com/samyuthanataraaj/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/samyuthanataraaj/leetcode/tree/master/0120-triangle) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/samyuthanataraaj/leetcode/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/samyuthanataraaj/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/samyuthanataraaj/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/samyuthanataraaj/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/samyuthanataraaj/leetcode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/samyuthanataraaj/leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/samyuthanataraaj/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/samyuthanataraaj/leetcode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/samyuthanataraaj/leetcode/tree/master/0165-compare-version-numbers) |
