@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3515-find-if-digit-game-can-be-won](https://github.com/samyuthanataraaj/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/samyuthanataraaj/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/samyuthanataraaj/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/samyuthanataraaj/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/samyuthanataraaj/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Enumeration
 |  |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/samyuthanataraaj/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3488-closest-equal-element-queries](https://github.com/samyuthanataraaj/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/samyuthanataraaj/leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/samyuthanataraaj/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/samyuthanataraaj/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Sorting
 |  |
