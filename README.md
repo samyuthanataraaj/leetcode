@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/samyuthanataraaj/leetcode/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/samyuthanataraaj/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/samyuthanataraaj/leetcode/tree/master/0120-triangle) |
 | [0279-perfect-squares](https://github.com/samyuthanataraaj/leetcode/tree/master/0279-perfect-squares) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/samyuthanataraaj/leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/samyuthanataraaj/leetcode/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/samyuthanataraaj/leetcode/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/samyuthanataraaj/leetcode/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/samyuthanataraaj/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/samyuthanataraaj/leetcode/tree/master/0120-triangle) |
 | [0204-count-primes](https://github.com/samyuthanataraaj/leetcode/tree/master/0204-count-primes) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/samyuthanataraaj/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/samyuthanataraaj/leetcode/tree/master/0053-maximum-subarray) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/samyuthanataraaj/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Matrix
 |  |
