@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/samyuthanataraaj/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/samyuthanataraaj/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/samyuthanataraaj/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/samyuthanataraaj/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/samyuthanataraaj/leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Dynamic Programming
 |  |
