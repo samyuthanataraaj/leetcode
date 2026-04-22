@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/samyuthanataraaj/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1656-count-good-triplets](https://github.com/samyuthanataraaj/leetcode/tree/master/1656-count-good-triplets) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/samyuthanataraaj/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/samyuthanataraaj/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/samyuthanataraaj/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/samyuthanataraaj/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/samyuthanataraaj/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/samyuthanataraaj/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/samyuthanataraaj/leetcode/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/samyuthanataraaj/leetcode/tree/master/0696-count-binary-substrings) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/samyuthanataraaj/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/samyuthanataraaj/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/samyuthanataraaj/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2551-apply-operations-to-an-array](https://github.com/samyuthanataraaj/leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/samyuthanataraaj/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/samyuthanataraaj/leetcode/tree/master/0367-valid-perfect-square) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/samyuthanataraaj/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/samyuthanataraaj/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/samyuthanataraaj/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3488-closest-equal-element-queries](https://github.com/samyuthanataraaj/leetcode/tree/master/3488-closest-equal-element-queries) |
 ## Counting Sort
