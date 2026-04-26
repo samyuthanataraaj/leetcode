@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/samyuthanataraaj/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/samyuthanataraaj/leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/samyuthanataraaj/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/samyuthanataraaj/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1656-count-good-triplets](https://github.com/samyuthanataraaj/leetcode/tree/master/1656-count-good-triplets) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/samyuthanataraaj/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/samyuthanataraaj/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/samyuthanataraaj/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0279-perfect-squares](https://github.com/samyuthanataraaj/leetcode/tree/master/0279-perfect-squares) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/samyuthanataraaj/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/samyuthanataraaj/leetcode/tree/master/0498-diagonal-traverse) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/samyuthanataraaj/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/samyuthanataraaj/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/samyuthanataraaj/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/samyuthanataraaj/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/samyuthanataraaj/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/samyuthanataraaj/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/samyuthanataraaj/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/samyuthanataraaj/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -405,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/samyuthanataraaj/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Union-Find
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/samyuthanataraaj/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
