@@ -4,7 +4,7 @@ class Solution {
     //   int m=
       int ans[]=new int[n];
       for(int i=0;i<n;i++){
-        for(int j=0;j<1000;j++){
+        for(int j=0;j<999;j++){
             if((j|j+1)==nums.get(i)){
                 ans[i]=j;
                 break;
