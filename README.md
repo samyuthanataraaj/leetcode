@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/samyuthanataraaj/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/samyuthanataraaj/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/samyuthanataraaj/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2833-furthest-point-from-origin](https://github.com/samyuthanataraaj/leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/samyuthanataraaj/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/samyuthanataraaj/leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Dynamic Programming
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/samyuthanataraaj/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/samyuthanataraaj/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/samyuthanataraaj/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2833-furthest-point-from-origin](https://github.com/samyuthanataraaj/leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/samyuthanataraaj/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/samyuthanataraaj/leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Stack
