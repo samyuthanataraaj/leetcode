@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/samyuthanataraaj/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/samyuthanataraaj/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/samyuthanataraaj/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3074-apple-redistribution-into-boxes](https://github.com/samyuthanataraaj/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/samyuthanataraaj/leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/samyuthanataraaj/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/samyuthanataraaj/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/samyuthanataraaj/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/samyuthanataraaj/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/samyuthanataraaj/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [3074-apple-redistribution-into-boxes](https://github.com/samyuthanataraaj/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Counting
 |  |
 | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/samyuthanataraaj/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/samyuthanataraaj/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/samyuthanataraaj/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3074-apple-redistribution-into-boxes](https://github.com/samyuthanataraaj/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Number Theory
 |  |
 | ------- |
