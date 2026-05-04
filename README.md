@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/samyuthanataraaj/leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/samyuthanataraaj/leetcode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/samyuthanataraaj/leetcode/tree/master/0728-self-dividing-numbers) |
+| [0788-rotated-digits](https://github.com/samyuthanataraaj/leetcode/tree/master/0788-rotated-digits) |
 | [0796-reaching-points](https://github.com/samyuthanataraaj/leetcode/tree/master/0796-reaching-points) |
 | [0830-largest-triangle-area](https://github.com/samyuthanataraaj/leetcode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/samyuthanataraaj/leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/samyuthanataraaj/leetcode/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/samyuthanataraaj/leetcode/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/samyuthanataraaj/leetcode/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/samyuthanataraaj/leetcode/tree/master/0788-rotated-digits) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/samyuthanataraaj/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1236-n-th-tribonacci-number](https://github.com/samyuthanataraaj/leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
