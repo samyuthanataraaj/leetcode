@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/samyuthanataraaj/leetcode/tree/master/0504-base-7) |
 | [0657-robot-return-to-origin](https://github.com/samyuthanataraaj/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/samyuthanataraaj/leetcode/tree/master/0696-count-binary-substrings) |
+| [0796-rotate-string](https://github.com/samyuthanataraaj/leetcode/tree/master/0796-rotate-string) |
 | [1044-find-common-characters](https://github.com/samyuthanataraaj/leetcode/tree/master/1044-find-common-characters) |
 | [1260-day-of-the-year](https://github.com/samyuthanataraaj/leetcode/tree/master/1260-day-of-the-year) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/samyuthanataraaj/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -429,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/samyuthanataraaj/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/samyuthanataraaj/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
