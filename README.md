@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/samyuthanataraaj/leetcode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/samyuthanataraaj/leetcode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/samyuthanataraaj/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/samyuthanataraaj/leetcode/tree/master/0050-powx-n) |
 | [0166-fraction-to-recurring-decimal](https://github.com/samyuthanataraaj/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0204-count-primes](https://github.com/samyuthanataraaj/leetcode/tree/master/0204-count-primes) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/samyuthanataraaj/leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/samyuthanataraaj/leetcode/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/samyuthanataraaj/leetcode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/samyuthanataraaj/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/samyuthanataraaj/leetcode/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/samyuthanataraaj/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/samyuthanataraaj/leetcode/tree/master/0120-triangle) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/samyuthanataraaj/leetcode/tree/master/0048-rotate-image) |
 | [0498-diagonal-traverse](https://github.com/samyuthanataraaj/leetcode/tree/master/0498-diagonal-traverse) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/samyuthanataraaj/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/samyuthanataraaj/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
