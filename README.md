@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/samyuthanataraaj/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1217-relative-sort-array](https://github.com/samyuthanataraaj/leetcode/tree/master/1217-relative-sort-array) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/samyuthanataraaj/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1345-jump-game-iv](https://github.com/samyuthanataraaj/leetcode/tree/master/1345-jump-game-iv) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/samyuthanataraaj/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/samyuthanataraaj/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/samyuthanataraaj/leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/samyuthanataraaj/leetcode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/samyuthanataraaj/leetcode/tree/master/1217-relative-sort-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/samyuthanataraaj/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1345-jump-game-iv](https://github.com/samyuthanataraaj/leetcode/tree/master/1345-jump-game-iv) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/samyuthanataraaj/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2107-find-unique-binary-string](https://github.com/samyuthanataraaj/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/samyuthanataraaj/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/samyuthanataraaj/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0279-perfect-squares](https://github.com/samyuthanataraaj/leetcode/tree/master/0279-perfect-squares) |
+| [1345-jump-game-iv](https://github.com/samyuthanataraaj/leetcode/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/samyuthanataraaj/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Simulation
 |  |
