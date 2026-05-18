@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/samyuthanataraaj/leetcode/tree/master/0396-rotate-function) |
 | [0455-assign-cookies](https://github.com/samyuthanataraaj/leetcode/tree/master/0455-assign-cookies) |
 | [0495-teemo-attacking](https://github.com/samyuthanataraaj/leetcode/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/samyuthanataraaj/leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/samyuthanataraaj/leetcode/tree/master/0498-diagonal-traverse) |
 | [0830-largest-triangle-area](https://github.com/samyuthanataraaj/leetcode/tree/master/0830-largest-triangle-area) |
 | [0874-walking-robot-simulation](https://github.com/samyuthanataraaj/leetcode/tree/master/0874-walking-robot-simulation) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/samyuthanataraaj/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/samyuthanataraaj/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/samyuthanataraaj/leetcode/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/samyuthanataraaj/leetcode/tree/master/0496-next-greater-element-i) |
 | [0874-walking-robot-simulation](https://github.com/samyuthanataraaj/leetcode/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/samyuthanataraaj/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/samyuthanataraaj/leetcode/tree/master/1044-find-common-characters) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/samyuthanataraaj/leetcode/tree/master/0496-next-greater-element-i) |
 | [1666-make-the-string-great](https://github.com/samyuthanataraaj/leetcode/tree/master/1666-make-the-string-great) |
 ## Two Pointers
 |  |
@@ -455,4 +458,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/samyuthanataraaj/leetcode/tree/master/0796-rotate-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/samyuthanataraaj/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
