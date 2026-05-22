@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/samyuthanataraaj/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/samyuthanataraaj/leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/samyuthanataraaj/leetcode/tree/master/0016-3sum-closest) |
+| [0033-search-in-rotated-sorted-array](https://github.com/samyuthanataraaj/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/samyuthanataraaj/leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/samyuthanataraaj/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/samyuthanataraaj/leetcode/tree/master/0053-maximum-subarray) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/samyuthanataraaj/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/samyuthanataraaj/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/samyuthanataraaj/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/samyuthanataraaj/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/samyuthanataraaj/leetcode/tree/master/0287-find-the-duplicate-number) |
