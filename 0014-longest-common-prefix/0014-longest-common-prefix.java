@@ -22,7 +22,7 @@ class Solution {
                 s+=strs[0].charAt(i);
             }
             else{
-                break;
+                return s;
             }
         }
         return s;
