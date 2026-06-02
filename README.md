@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/samyuthanataraaj/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/samyuthanataraaj/leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/samyuthanataraaj/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/samyuthanataraaj/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/samyuthanataraaj/leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Dynamic Programming
 |  |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-number-of-unequal-triplets-in-array](https://github.com/samyuthanataraaj/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/samyuthanataraaj/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2784-check-if-array-is-good](https://github.com/samyuthanataraaj/leetcode/tree/master/2784-check-if-array-is-good) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/samyuthanataraaj/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/samyuthanataraaj/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3488-closest-equal-element-queries](https://github.com/samyuthanataraaj/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/samyuthanataraaj/leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
