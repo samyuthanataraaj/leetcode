@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/samyuthanataraaj/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/samyuthanataraaj/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/samyuthanataraaj/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/samyuthanataraaj/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/samyuthanataraaj/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2784-check-if-array-is-good](https://github.com/samyuthanataraaj/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/samyuthanataraaj/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/samyuthanataraaj/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/samyuthanataraaj/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/samyuthanataraaj/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/samyuthanataraaj/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/samyuthanataraaj/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2784-check-if-array-is-good](https://github.com/samyuthanataraaj/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/samyuthanataraaj/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/samyuthanataraaj/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/samyuthanataraaj/leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/samyuthanataraaj/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/samyuthanataraaj/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/samyuthanataraaj/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Divide and Conquer
 |  |
