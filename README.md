@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/samyuthanataraaj/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/samyuthanataraaj/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1871-jump-game-vii](https://github.com/samyuthanataraaj/leetcode/tree/master/1871-jump-game-vii) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/samyuthanataraaj/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/samyuthanataraaj/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2107-find-unique-binary-string](https://github.com/samyuthanataraaj/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/samyuthanataraaj/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/samyuthanataraaj/leetcode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/samyuthanataraaj/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/samyuthanataraaj/leetcode/tree/master/0874-walking-robot-simulation) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/samyuthanataraaj/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/samyuthanataraaj/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/samyuthanataraaj/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/samyuthanataraaj/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
