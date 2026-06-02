@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/samyuthanataraaj/leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/samyuthanataraaj/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/samyuthanataraaj/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/samyuthanataraaj/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/samyuthanataraaj/leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Dynamic Programming
 |  |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/samyuthanataraaj/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2784-check-if-array-is-good](https://github.com/samyuthanataraaj/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/samyuthanataraaj/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/samyuthanataraaj/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/samyuthanataraaj/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3488-closest-equal-element-queries](https://github.com/samyuthanataraaj/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/samyuthanataraaj/leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
