@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/samyuthanataraaj/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/samyuthanataraaj/leetcode/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/samyuthanataraaj/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/samyuthanataraaj/leetcode/tree/master/0120-triangle) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/samyuthanataraaj/leetcode/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/samyuthanataraaj/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/samyuthanataraaj/leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/samyuthanataraaj/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/samyuthanataraaj/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/samyuthanataraaj/leetcode/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/samyuthanataraaj/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/samyuthanataraaj/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/samyuthanataraaj/leetcode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/samyuthanataraaj/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1666-make-the-string-great](https://github.com/samyuthanataraaj/leetcode/tree/master/1666-make-the-string-great) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/samyuthanataraaj/leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/samyuthanataraaj/leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/samyuthanataraaj/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/samyuthanataraaj/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/samyuthanataraaj/leetcode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/samyuthanataraaj/leetcode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/samyuthanataraaj/leetcode/tree/master/0165-compare-version-numbers) |
@@ -519,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/samyuthanataraaj/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/samyuthanataraaj/leetcode/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
